@@ -46,7 +46,7 @@ public class StartScreen extends World
         String key = Greenfoot.getKey();
         if ("enter".equals(key))
         {
-            Greenfoot.setWorld(new Level(3, 0, 5)); 
+            Greenfoot.setWorld(new Level(1, 0, 5)); 
         }
     }
 }
